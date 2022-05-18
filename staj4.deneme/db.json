@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"esra",
+        "surname":"çamlıtepe"
+    },
+    {
+        "id":2,
+        "name":"ezgi",
+        "surname":"yılmaz"
+    },
+      {
+           "id":3,
+           "name":"emir",
+           "surname":"girişken"
+       },
+       {
+        "id":4,
+        "name":"ersin",
+        "surname":"fındık"
+    },
+    {
+        "id":5,
+        "name":"emre",
+        "surname":"yırtmaz"
+    },
+    {
+        "id":6,
+        "name":"elif",
+        "surname":"ipek"
+    },
+    {
+        "id":7,
+        "name":"eymen",
+        "surname":"parlak"
+    }
+]
